@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/benable/static/css/main.5f361e03.chunk.css",
+    "main.js": "/benable/static/js/main.b012b2cb.chunk.js",
+    "main.js.map": "/benable/static/js/main.b012b2cb.chunk.js.map",
+    "runtime-main.js": "/benable/static/js/runtime-main.d7072015.js",
+    "runtime-main.js.map": "/benable/static/js/runtime-main.d7072015.js.map",
+    "static/js/2.eac3da7f.chunk.js": "/benable/static/js/2.eac3da7f.chunk.js",
+    "static/js/2.eac3da7f.chunk.js.map": "/benable/static/js/2.eac3da7f.chunk.js.map",
+    "index.html": "/benable/index.html",
+    "precache-manifest.e5abc6b3d939101ec1866102c09027fe.js": "/benable/precache-manifest.e5abc6b3d939101ec1866102c09027fe.js",
+    "service-worker.js": "/benable/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/benable/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eac3da7f.chunk.js.LICENSE.txt": "/benable/static/js/2.eac3da7f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/benable/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7072015.js",
+    "static/js/2.eac3da7f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b012b2cb.chunk.js"
+  ]
+}
