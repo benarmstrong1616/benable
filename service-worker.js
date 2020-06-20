@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/benable/precache-manifest.e5abc6b3d939101ec1866102c09027fe.js"
+  "/benable/precache-manifest.8322b007b294cc59e2317e1a4596096f.js"
 );
 
 self.addEventListener('message', (event) => {
