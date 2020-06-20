@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3245e86c143624999ac0d9e7ac16729",
+    "revision": "f55f0631ca6fdeac846820d7e0d925b2",
     "url": "/benable/index.html"
   },
   {
-    "revision": "51449f2aeee00c5e9e98",
+    "revision": "16262b506246437551a2",
     "url": "/benable/static/css/main.5e831435.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/benable/static/js/2.50074d51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51449f2aeee00c5e9e98",
-    "url": "/benable/static/js/main.829428e9.chunk.js"
+    "revision": "16262b506246437551a2",
+    "url": "/benable/static/js/main.6dcb3c0b.chunk.js"
   },
   {
     "revision": "64309d0435d58c71d5f6",
