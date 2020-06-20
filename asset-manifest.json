@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/benable/static/css/main.5e831435.chunk.css",
-    "main.js": "/benable/static/js/main.0e04af8d.chunk.js",
-    "main.js.map": "/benable/static/js/main.0e04af8d.chunk.js.map",
+    "main.js": "/benable/static/js/main.829428e9.chunk.js",
+    "main.js.map": "/benable/static/js/main.829428e9.chunk.js.map",
     "runtime-main.js": "/benable/static/js/runtime-main.d7072015.js",
     "runtime-main.js.map": "/benable/static/js/runtime-main.d7072015.js.map",
     "static/js/2.50074d51.chunk.js": "/benable/static/js/2.50074d51.chunk.js",
     "static/js/2.50074d51.chunk.js.map": "/benable/static/js/2.50074d51.chunk.js.map",
     "index.html": "/benable/index.html",
-    "precache-manifest.8322b007b294cc59e2317e1a4596096f.js": "/benable/precache-manifest.8322b007b294cc59e2317e1a4596096f.js",
+    "precache-manifest.560ac1c47263b3b44051399964ec27a2.js": "/benable/precache-manifest.560ac1c47263b3b44051399964ec27a2.js",
     "service-worker.js": "/benable/service-worker.js",
     "static/css/main.5e831435.chunk.css.map": "/benable/static/css/main.5e831435.chunk.css.map",
     "static/js/2.50074d51.chunk.js.LICENSE.txt": "/benable/static/js/2.50074d51.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d7072015.js",
     "static/js/2.50074d51.chunk.js",
     "static/css/main.5e831435.chunk.css",
-    "static/js/main.0e04af8d.chunk.js"
+    "static/js/main.829428e9.chunk.js"
   ]
 }
